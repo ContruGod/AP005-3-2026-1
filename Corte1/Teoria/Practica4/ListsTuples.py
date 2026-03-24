@@ -1,5 +1,4 @@
-################# LISTAS ####################
-###########################################
+# LISTAS
 
 # Crea una lista con colores
 my_lista = ['Rojo', 'Azul', 'Amarillo', 'Naranja', 'Violeta', 'Verde']
@@ -81,8 +80,6 @@ print("De menor a mayor: ", my_NumList)
 ###########################################
 
 # Convierte la lista en una tupla (inmutable)
-print("###########################")
-print("###########################")
 print("###########################")
 print("############ TUPLAS #########")
 
