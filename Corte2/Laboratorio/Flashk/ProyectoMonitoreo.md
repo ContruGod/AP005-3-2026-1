@@ -32,3 +32,65 @@ El sistema integra conceptos de electrónica, programación y desarrollo web.
 ---
 
 ## Estructura del proyecto
+
+```
+mi_proyecto_iot/
+│
+├── app.py
+├── serial_a_csv.py
+├── datos_potenciometro.csv
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    └── grafica_potenciometro.png
+```
+
+---
+
+## Ejecución del proyecto
+
+1. Conectar el ESP32 al computador.
+2. Ejecutar el script de lectura serial:
+
+```
+python serial_a_csv.py
+```
+
+3. En otra terminal ejecutar el servidor web:
+
+```
+python app.py
+```
+
+4. Abrir el navegador en:
+
+```
+http://127.0.0.1:5000
+```
+
+---
+
+## Resultados
+
+El sistema permite visualizar:
+
+- Lectura en tiempo real del potenciómetro
+- Gráfica de las últimas muestras
+- Tabla de datos
+- Resumen estadístico (mínimo, máximo, promedio)
+
+---
+
+## Evidencia
+
+![imagen1](img/imagen1.png)
+![imagen2](img/imagen2.png)
+![imagen3](img/imagen3.png)
+
+---
+
+## Autor
+
+Proyecto realizado por: Felipe Ayala y Kevin Hurtado
