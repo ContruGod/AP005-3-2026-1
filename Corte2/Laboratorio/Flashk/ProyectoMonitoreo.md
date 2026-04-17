@@ -1,5 +1,4 @@
-<img width="837" height="472" alt="Potenciometro" src="https://github.com/user-attachments/assets/a2d5c9e1-7a15-439e-91ba-5f71fbe16baf" />
-<img width="837" height="472" alt="Potenciometro" src="https://github.com/user-attachments/assets/13539c4d-19d9-439e-992e-f54e4f6bc1c9" />
+
 # Monitoreo de Potenciómetro con ESP32 y Python
 
 ## Descripción del proyecto
