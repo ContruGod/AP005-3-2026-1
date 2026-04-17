@@ -78,8 +78,6 @@ El sistema permite visualizar:
 
 - Lectura en tiempo real del potenciómetro
 - Gráfica de las últimas muestras
-- Tabla de datos
-- Resumen estadístico (mínimo, máximo, promedio)
 
 ---
 
