@@ -85,7 +85,6 @@ El sistema permite visualizar:
 
 ![imagen1](img/imagen1.png)
 ![imagen2](img/imagen2.png)
-![imagen3](img/imagen3.png)
 
 ---
 
